@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "493f8d9584b38488",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e0533c2d280876",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65dc253ac1c42424",
+    "type": "split",
+    "children": [
+      {
+        "id": "65de9863312bc24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "417a253754420529",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c07e673a57b4b39d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e9a91be91628897",
+    "type": "split",
+    "children": [
+      {
+        "id": "75beb55be521108b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f67908e90b11df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63e0533c2d280876",
+  "lastOpenFiles": [
+    "README.md",
+    "markdown/206. 反转链表.md",
+    "markdown/53. 最大子数组和.md",
+    "markdown/169. 多数元素.md",
+    "markdown/160. 相交链表.md",
+    "markdown/155. 最小栈.md"
+  ]
+}
